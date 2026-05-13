@@ -1,0 +1,8 @@
+/* CSS Reset — 只保留最基本的规则 */
+body {
+  margin: 0;
+}
+
+#root {
+  min-height: 100vh;
+}
